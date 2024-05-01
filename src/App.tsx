@@ -8,9 +8,12 @@ function App() {
     <div className='Home'>
     {/* <div className='JogoHome2'>Jogo2</div>
     <div className='JogoHome3'>Jogo3</div> */}
-    <button className='JogoHome1'></button>
     </div>
+    <div className='btnGato'>
 
+    <button className='JogoHome1'></button>
+
+    </div>
    
     
     
